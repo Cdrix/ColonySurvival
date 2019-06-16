@@ -20,113 +20,113 @@
 	},
 	"sentences" : {
 		"bannerclickedpopup" : {
-			"deletebanner" : "_MISSING_Delete Banner",
-			"deletecolony" : "_MISSING_Delete Colony",
+			"deletebanner" : "Supprimer Bannière",
+			"deletecolony" : "Supprimer Colonie",
 			"deletecolonydescription" : "_MISSING_Deleting the last banner of a colony will remove all npcs and make the colony unusable. To confirm this is what you want, type 'delete' below.",
-			"header" : "_MISSING_Banner Options",
+			"header" : "Options Bannière",
 			"noconfirmationdelete" : "_MISSING_Ignoring deletion command, did not get confirmation",
-			"placementfail" : "_MISSING_Couldn't place banner at this location"
+			"placementfail" : "Impossible de placer la bannière à cet endroit"
 		},
 		"bannerplacementpopup" : {
-			"activecolony" : "_MISSING_Active Colony: {0}",
-			"addbanner" : "_MISSING_Add Banner",
+			"activecolony" : "Colonie active: {0}",
+			"addbanner" : "Ajouter Bannière",
 			"header" : "_MISSING_Banner Placement",
-			"movebanner" : "_MISSING_Move Banner",
-			"mustbeleader" : "_MISSING_Must be the colony leader to change banners.",
-			"startcolony" : "_MISSING_Start a new colony here"
+			"movebanner" : "Déplacer Bannière",
+			"mustbeleader" : "Seul le chef de la colonie peut modifier les bannières.",
+			"startcolony" : "Commencer une nouvelle colonie ici"
 		},
 		"biome" : {
 			"arctic" : {
-				"description" : "_MISSING_Colony is based in the Arctic",
-				"name" : "_MISSING_Arctic Colony"
+				"description" : "La colonie est située dans l'Arctique",
+				"name" : "Colonie de l'Arctique"
 			},
 			"fareast" : {
-				"description" : "_MISSING_Colony is based in the Far East",
-				"name" : "_MISSING_Far East Colony"
+				"description" : "La colonie est située dans l'Extrême-Orient",
+				"name" : "Colonie de l'Extrême-Orient"
 			},
 			"newworld" : {
-				"description" : "_MISSING_Colony is based in the New World",
-				"name" : "_MISSING_New World Colony"
+				"description" : "La colonie est située dans le Nouveau Monde",
+				"name" : "Colonie du Nouveau Monde"
 			},
 			"oldworld" : {
-				"description" : "_MISSING_Colony is based in the Old World",
-				"name" : "_MISSING_Old World Colony"
+				"description" : "La colonie est située dans l'Ancien Monde",
+				"name" : "Colonie de l'Ancien Monde"
 			},
 			"tropics" : {
-				"description" : "_MISSING_Colony is based in the Tropics",
-				"name" : "_MISSING_Tropics Colony"
+				"description" : "La colonie est située dans les Tropiques",
+				"name" : "Colonie des Tropiques"
 			}
 		},
 		"chat" : {
-			"onsciencedone" : "_MISSING_You've completed science {0}",
+			"onsciencedone" : "Vous avez terminé la science {0}",
 			"onsciencetraded" : "_MISSING_You've completed science {0} by trading."
 		},
 		"colonymanagement" : {
 			"colonysettings" : {
-				"daymonsters" : "_MISSING_Day Monster Amount",
+				"daymonsters" : "Nombre de Monstres en journée",
 				"enablehappiness" : "_MISSING_Use Happiness",
-				"header" : "_MISSING_Colony Settings",
-				"nightmonsters" : "_MISSING_Night Monster Amount"
+				"header" : "Paramètres Colonie",
+				"nightmonsters" : "Nombre de Monstres la nuit"
 			},
-			"connectedplayers" : "_MISSING_Connected Players",
-			"currentowners" : "_MISSING_Current Owners",
+			"connectedplayers" : "Joueurs Connectés",
+			"currentowners" : "Propriétaires Actuels",
 			"diplomacy" : {
 				"incomingdeals" : "_MISSING_Incoming deals",
-				"mainbutton" : "_MISSING_Diplomacy",
-				"mainheader" : "_MISSING_Diplomacy",
+				"mainbutton" : "Diplomatie",
+				"mainheader" : "Diplomatie",
 				"outgoingdeals" : "_MISSING_Outgoing deals",
 				"pendingdeals" : "_MISSING_Pending incoming deals",
-				"ruleaccept" : "_MISSING_Accept",
+				"ruleaccept" : "Accepter",
 				"ruleactive" : "_MISSING_Active",
 				"rulepending" : "_MISSING_Pending",
 				"ruleremove" : "_MISSING_Remove"
 			},
-			"inventoryheader" : "_MISSING_Colony",
-			"invite" : "_MISSING_Add as colony owner",
-			"kick" : "_MISSING_Kick from colony",
-			"leader" : "_MISSING_Leader",
-			"leave" : "_MISSING_Leave colony",
-			"manageheader" : "_MISSING_Ownership Management",
-			"manageowners" : "_MISSING_Manage Owners",
-			"nameedit" : "_MISSING_Edit Colony Name:",
-			"namefield" : "_MISSING_Colony Name:",
-			"recruitmentamount" : "_MISSING_Amount of colonists to recruit:",
-			"recruitmentbutton" : "_MISSING_Recruit Colonist",
-			"recruitmentheader" : "_MISSING_Recruitment",
-			"recruittext3" : "_MISSING_Colonists require 2000 calories per day and a bed.",
-			"recruittext4" : "_MISSING_Recruiting the next colonist costs {0} calories.",
-			"recruittofillbeds" : "_MISSING_Recruit to fill all beds",
-			"recruittofilljobs" : "_MISSING_Recruit to fill all jobs",
+			"inventoryheader" : "Colonie",
+			"invite" : "Ajouter comme Propriétaire de la Colonie",
+			"kick" : "Ejecter de la Colonie",
+			"leader" : "Chef",
+			"leave" : "Quitter la Colonie",
+			"manageheader" : "Gestion de la Propriété",
+			"manageowners" : "Gérer les Propriétaires",
+			"nameedit" : "Editer le Nom de la Colonie:",
+			"namefield" : "Nom de la Colonie:",
+			"recruitmentamount" : "Nombre de Colons à recruter:",
+			"recruitmentbutton" : "Recruter Colon",
+			"recruitmentheader" : "Recrutement",
+			"recruittext3" : "Les colons exige 2000 calories par jour et un lit.",
+			"recruittext4" : "Recruter le prochain colon coûte {0} calories.",
+			"recruittofillbeds" : "Recruter pour remplir tous les lits",
+			"recruittofilljobs" : "Recruter pour remplir tous les métiers",
 			"science" : {
-				"incomingdescription" : "_MISSING_{0} will share their science with you",
-				"newagreement" : "_MISSING_Propose science agreement",
-				"outgoingdescription" : "_MISSING_You provide {0} with your science",
-				"selectcolony" : "_MISSING_Select a colony to send science to"
+				"incomingdescription" : "{0} partagera cette science avec vous",
+				"newagreement" : "Proposer un accord scientifique",
+				"outgoingdescription" : "Vous fournissez {0} avec votre science",
+				"selectcolony" : "Sélectionner une colonie pour y envoyer la science"
 			},
 			"selectcolony" : {
-				"headercolonists" : "_MISSING_Colonists",
-				"headercolony" : "_MISSING_Colony",
-				"headerleader" : "_MISSING_Leader",
-				"headerselect" : "_MISSING_Select",
-				"nocolonies" : "_MISSING_No colonies to list",
-				"select" : "_MISSING_Select"
+				"headercolonists" : "Colons",
+				"headercolony" : "Colonie",
+				"headerleader" : "Chef",
+				"headerselect" : "Sélectionner",
+				"nocolonies" : "Aucune colonie sur la liste",
+				"select" : "Sélectionner"
 			},
-			"settoleader" : "_MISSING_Set to leader",
+			"settoleader" : "Définir le Chef",
 			"start" : {
-				"create" : "_MISSING_Create Colony",
-				"defaultkit" : "_MISSING_First time starter kit is used",
-				"kits" : "_MISSING_Available Kits",
-				"missingkit" : "_MISSING_Missing a colony starter kit",
-				"name" : "_MISSING_Colony Name",
+				"create" : "Créer Colonie",
+				"defaultkit" : "La première fois, le kit de démarrage est utilisé",
+				"kits" : "Kits disponible",
+				"missingkit" : "Un Kit de démarrage de Colonie",
+				"name" : "Nom de la Colonie",
 				"parentcolony" : "_MISSING_Parent Colony",
-				"popupheader" : "_MISSING_Colony Creation",
-				"usescienceagreement" : "_MISSING_Transfer Science"
+				"popupheader" : "Création de la Colonie",
+				"usescienceagreement" : "Transférer Science"
 			},
-			"startrecruitment" : "_MISSING_Recruitment",
-			"startsettings" : "_MISSING_Colony Settings",
+			"startrecruitment" : "Recrutement",
+			"startsettings" : "Paramètres de la Colonie",
 			"switchcolony" : "_MISSING_Switch to {0}",
 			"trading" : {
-				"completerule" : "_MISSING_Create rule",
+				"completerule" : "Créer règle",
 				"newrule" : "_MISSING_Propose trading rule",
 				"ruledescription" : "_MISSING_Traders will trade item type {0} from colony {1} to colony {2} if:",
 				"ruleincomingdescr" : "_MISSING_Get type {0} from {1} if they have more than {2}",
@@ -165,7 +165,7 @@
 			"sp_alreadyrunning2" : "Un serveur est déjà lancé. Retour au menu principal dans 5 secondes.",
 			"steam01" : "_MISSING_Stage 1/{0} - Trying to setup TCP connection to {1}",
 			"steam02" : "_MISSING_Stage 2/{0} - Trying to setup steam connection",
-			"steam03" : "_MISSING_Stage 3/{0} - Connection succesful, authenticating",
+			"steam03" : "_MISSING_Stage 3/{0} - Connexion réussie, authentification en cours",
 			"steamfail" : "Impossible de recevoir les données de connexion. Retour au menu principal dans 5 secondes."
 		},
 		"escapemenu" : {
@@ -178,10 +178,10 @@
 		"firstpersonstats" : {
 			"ammocount" : "Munitions :",
 			"bedcount" : "Lits :",
-			"caloriestorage" : "_MISSING_Total Calories:",
-			"calorieusage" : "_MISSING_Calorie use/day:",
+			"caloriestorage" : "Calories totales:",
+			"calorieusage" : "Calorie utilisée/jour:",
 			"colonistcount" : "Colons :",
-			"happiness" : "_MISSING_Happiness:",
+			"happiness" : "Bonheur:",
 			"laborercount" : "Sans emploi :"
 		},
 		"general" : {
@@ -206,7 +206,7 @@
 			"baseamount" : "_MISSING_King's presence",
 			"calories" : "_MISSING_Rationed calories",
 			"caloriescause" : "_MISSING_Surplus calories",
-			"colonistcount" : "_MISSING_Population",
+			"colonistcount" : "Population",
 			"disabledeffect" : "_MISSING_Happiness Disabled",
 			"recruitmentcost" : "_MISSING_Recruitment cost: {0:P0} of normal",
 			"sciencespeed" : "_MISSING_Science speed: {0:P0} of normal",
@@ -219,7 +219,7 @@
 		},
 		"mainmenu" : {
 			"back" : "Retour",
-			"coop" : "_MISSING_Host Co-op",
+			"coop" : "Hôte Co-op",
 			"info" : "Informations",
 			"multiplayer" : "Multijoueur",
 			"quit" : "Quitter",
@@ -260,11 +260,11 @@
 					"name" : "Zone de sécurité I"
 				},
 				"bannerradius2" : {
-					"description" : "_MISSING_Increases the safe radius created to 50 blocks",
+					"description" : "Augmente le rayon de la zone de sécurité créee à 50 blocs",
 					"name" : "Zone de sécurité II"
 				},
 				"bannerradius3" : {
-					"description" : "_MISSING_Increases the safe radius created to 60 blocks",
+					"description" : "Augmente le rayon de la zone de sécurité créée à 60 blocs",
 					"name" : "Zone de sécurité III"
 				},
 				"bannerradius4" : {
@@ -305,27 +305,27 @@
 				},
 				"cabbagefarmer" : {
 					"description" : "_MISSING_Unlocks the cabbage farmer",
-					"name" : "_MISSING_Cabbage Farming"
+					"name" : "Culture du choux"
 				},
 				"candles" : {
 					"description" : "_MISSING_Unlocks producing candles by a beekeeper",
-					"name" : "_MISSING_Candles"
+					"name" : "Bougies"
 				},
 				"chickenfarmer" : {
 					"description" : "_MISSING_Unlocks the chicken farmer",
-					"name" : "_MISSING_Chicken Farming"
+					"name" : "Elevage de Poule"
 				},
 				"coffee" : {
 					"description" : "_MISSING_Unlocks processing coffeebeans into coffee at the stove",
-					"name" : "_MISSING_Coffee"
+					"name" : "Café"
 				},
 				"coffeebeans" : {
 					"description" : "_MISSING_Unlocks the coffeebean farmer",
-					"name" : "_MISSING_Coffeebean Farming"
+					"name" : "Culture de grain de café"
 				},
 				"colonykit" : {
 					"description" : "_MISSING_Allows construction of a colony kit",
-					"name" : "_MISSING_Colonization"
+					"name" : "Colonisation"
 				},
 				"constructionbuilder" : {
 					"description" : "Débloque les zones de construction pour les chantiers",
@@ -381,11 +381,11 @@
 				},
 				"cook" : {
 					"description" : "_MISSING_Unlocks the cook, which can make meals for your colonists",
-					"name" : "_MISSING_Cook"
+					"name" : "Cuisine"
 				},
 				"cottontowel" : {
 					"description" : "_MISSING_Unlocks the cotton towel luxury item",
-					"name" : "_MISSING_Cotton Towel"
+					"name" : "Serviette en coton"
 				},
 				"crossbow" : {
 					"description" : "Débloque l'arbalète, une arme plus puissante que l'arc",
@@ -397,7 +397,7 @@
 				},
 				"diamondprocessing" : {
 					"description" : "_MISSING_Unlocks processing diamonds",
-					"name" : "_MISSING_Diamonds"
+					"name" : "Diamants"
 				},
 				"dyertable" : {
 					"description" : "Débloque le teinturier, qui peut utiliser des herbes pour colorer les lanternes et certains blocs",
@@ -409,7 +409,7 @@
 				},
 				"fisherman" : {
 					"description" : "_MISSING_Unlocks the fisherman",
-					"name" : "_MISSING_Fishing"
+					"name" : "Pêche"
 				},
 				"flaxfarming" : {
 					"description" : "Débloque les cultivateurs de lin, nécessaires pour produire du lin. Fournit 100 graines de lin.",
@@ -421,7 +421,7 @@
 				},
 				"fur" : {
 					"description" : "_MISSING_Unlocks fur processing",
-					"name" : "_MISSING_Fur"
+					"name" : "Fourrure"
 				},
 				"glider" : {
 					"description" : "_MISSING_A revolutionary way of transport. Essential in reaching new lands.",
@@ -501,19 +501,19 @@
 				},
 				"newworldmeal" : {
 					"description" : "_MISSING_Unlocks the New World Meal",
-					"name" : "_MISSING_New World Meal"
+					"name" : "Repas du Nouveau Monde"
 				},
 				"olivefarmer" : {
 					"description" : "_MISSING_Unlocks the olive farmer, a part of creating more complex meals",
-					"name" : "_MISSING_Olive Farming"
+					"name" : "Culture d'Olive"
 				},
 				"papyrus" : {
 					"description" : "_MISSING_Unlocks papyrus production",
-					"name" : "_MISSING_Papyrus"
+					"name" : "Papyrus"
 				},
 				"porcelain" : {
 					"description" : "_MISSING_Unlocks porcelain production",
-					"name" : "_MISSING_Porcelain"
+					"name" : "Porcelaine"
 				},
 				"printingpress" : {
 					"description" : "_MISSING_Unlocks the printing press, allowing books to be spread much easier",
@@ -533,7 +533,7 @@
 				},
 				"ricefarmer" : {
 					"description" : "_MISSING_Unlocks rice farming",
-					"name" : "_MISSING_Rice farming"
+					"name" : "Culture du riz"
 				},
 				"sciencebagadvanced" : {
 					"description" : "Débloque le sac de science avancée, utilisé pour les recherches avancées",
@@ -557,16 +557,16 @@
 				},
 				"silkwormfarmer" : {
 					"description" : "_MISSING_Unlocks silkworm farming",
-					"name" : "_MISSING_Silkworm Farming"
+					"name" : "Elevage de ver à soie"
 				},
 				"spinningwheel" : {
 					"fareast" : {
 						"description" : "_MISSING_Unlocks the spinning wheel",
-						"name" : "_MISSING_Spinning wheel"
+						"name" : "Rouet"
 					},
 					"newworld" : {
 						"description" : "_MISSING_Unlocks the spinning wheel",
-						"name" : "_MISSING_Spinning wheel"
+						"name" : "Rouet"
 					}
 				},
 				"splittingstump" : {
@@ -579,7 +579,7 @@
 				},
 				"sugarcane" : {
 					"description" : "_MISSING_Unlocks sugar cane farming",
-					"name" : "_MISSING_Sugarcane"
+					"name" : "Canne à sucre"
 				},
 				"tailorshop" : {
 					"description" : "Débloque le couturier, qui transforme le lin cultivé en toile de lin",
@@ -587,7 +587,7 @@
 				},
 				"teafarmer" : {
 					"description" : "_MISSING_Unlocks tea farming",
-					"name" : "_MISSING_Tea"
+					"name" : "Thé"
 				},
 				"technologisttable" : {
 					"description" : "Débloque le technicien, qui fabrique des sacs de science",
@@ -595,19 +595,19 @@
 				},
 				"trader" : {
 					"description" : "_MISSING_Unlock trader npcs, which accelerate trading to other colonies",
-					"name" : "_MISSING_Traders"
+					"name" : "Marchands"
 				},
 				"watergatherer" : {
 					"description" : "_MISSING_Unlocks the water gatherer, filling buckets with water from open water",
-					"name" : "_MISSING_Water Gathering"
+					"name" : "Collecteur d'eau"
 				},
 				"waterpump" : {
 					"description" : "_MISSING_Unlocks the water pump, allowing water to be gathered anywhere",
-					"name" : "_MISSING_Water Pump"
+					"name" : "Pompe à eau"
 				},
 				"waxtablet" : {
 					"description" : "_MISSING_Unlocks the wax tablet, a luxury product",
-					"name" : "_MISSING_Wax Tablet"
+					"name" : "Comprimé de cire"
 				},
 				"wheatfarming" : {
 					"description" : "Une méthode plus complexe pour produire de la nourriture, réservée aux colonies avancées. Débloque le cultivateur de blé, la meule et le four. Fournit 400 graines de blé.",
@@ -615,7 +615,7 @@
 				},
 				"wintercoat" : {
 					"description" : "_MISSING_Unlocks winter coat production",
-					"name" : "_MISSING_Wintercoat"
+					"name" : "Manteau d'hiver"
 				},
 				"writer" : {
 					"description" : "_MISSING_Unlocks the writer, able to produce books for enjoyment",
@@ -635,32 +635,32 @@
 				"respawn" : "Réapparaître ?"
 			},
 			"inventory" : {
-				"availableamount" : "_MISSING_In stockpile: {0}",
-				"calorievalue" : "_MISSING_{0} calories per item",
+				"availableamount" : "En stock: {0}",
+				"calorievalue" : "{0} calories par objet",
 				"craftingstockpile" : "Fabrication et stock",
-				"distributionhappyperitem" : "_MISSING_Happiness per item: {0}",
+				"distributionhappyperitem" : "Bonheur par  objet: {0}",
 				"distributionpercolonist" : "_MISSING_Daily items per colonist: {0}",
 				"distributionplanned" : "_MISSING_Planned happiness increase: {0}",
 				"distributionreached" : "_MISSING_Percentage distributed: {0}%",
 				"distributiontotal" : "_MISSING_Daily total items: {0}",
 				"happinessvalue" : "_MISSING_Happiness value:",
 				"happy" : {
-					"header" : "_MISSING_Happiness"
+					"header" : "Bonheur"
 				},
 				"madeintooltip" : "Fabriqué(e) dans :",
-				"noactivecolony" : "_MISSING_No active colony!",
+				"noactivecolony" : "Aucune colonie active!",
 				"science" : {
 					"available" : "Disponible",
 					"completed" : "Terminée",
-					"completeunlock" : "_MISSING_Complete",
-					"conditioncolonistcount" : "_MISSING_Colonists",
-					"conditioncolonistcountdescription" : "_MISSING_Number of colonists required",
+					"completeunlock" : "Terminée",
+					"conditioncolonistcount" : "Colons",
+					"conditioncolonistcountdescription" : "Nombre de colons requis",
 					"conditionhappiness" : "_MISSING_Happiness requirement",
 					"conditionhappinessdescription" : "_MISSING_Minimum net happiness required",
-					"conditionscientistrequires" : "_MISSING_Requires {0}",
+					"conditionscientistrequires" : "Requiert {0}",
 					"dependencies" : "Requiert les technologies :",
 					"header" : "Science",
-					"recipeunlocknpcgroup" : "_MISSING_Unlocks the {0}",
+					"recipeunlocknpcgroup" : "Déverouille le {0}",
 					"recipeunlockoriginjob" : "_MISSING_Made at {0}",
 					"recipeunlockoriginplayer" : "_MISSING_Made by player",
 					"recipeunlocks" : "_MISSING_Recipe unlocks:",
@@ -672,12 +672,12 @@
 					"and" : "et",
 					"instockpile" : "en stock",
 					"needs" : "Requiert : ",
-					"nothing" : "_MISSING_Nothing"
+					"nothing" : "Rien"
 				}
 			},
 			"itemselector" : {
-				"description" : "_MISSING_Select an item type to use",
-				"header" : "_MISSING_Item Selection"
+				"description" : "Sélectionner un type d'objet à utiliser",
+				"header" : "Sélection d'objet"
 			},
 			"limits" : {
 				"description" : "Les colons travailleront jusqu'à ce que la quantité fixée soit atteinte dans le stock.",
@@ -687,10 +687,10 @@
 				},
 				"pipliz" : {
 					"baker" : "Limites de la boulangerie",
-					"beekeeper" : "_MISSING_Beekeeper limits",
+					"beekeeper" : "Limites de l'apiculteur",
 					"bloomeryjob" : "Limites du bas fourneau",
-					"chickenfarmer" : "_MISSING_Chickenfarmer limits",
-					"cook" : "_MISSING_Cook limits",
+					"chickenfarmer" : "Limites de l'éleveur de poules",
+					"cook" : "Limits de la cuisine",
 					"crafter" : "Limites de fabrication",
 					"dyer" : "Limites du teinturier",
 					"fineryforgejob" : "Limites de la raffinerie",
@@ -704,9 +704,9 @@
 					"stonemason" : "Limites du tailleur de pierres",
 					"tailor" : "Limites du couturier",
 					"technologist" : "Limites du technicien",
-					"watergatherer" : "_MISSING_Watergatherer limits",
-					"waterpump" : "_MISSING_Waterpump limits",
-					"wheelspinner" : "_MISSING_Spinningwheel Limits",
+					"watergatherer" : "Limites du récolteur d'eau",
+					"waterpump" : "Limites de la pompe à eau",
+					"wheelspinner" : "Limites du rouet",
 					"woodcutter" : "Limites de coupe du bois",
 					"writer" : "_MISSING_Writer limits"
 				}
@@ -738,15 +738,15 @@
 			"tooljob" : {
 				"alkanetfarmer" : "Cultivateur d'orcanettes",
 				"alkanetfarmertool" : "Outil de cultivateur d'orcanettes",
-				"bananafarmb" : "_MISSING_For... bananas",
-				"bananafarmer" : "_MISSING_Banana Farmer",
-				"bananatool" : "_MISSING_Banana Farmer Tool",
+				"bananafarmb" : "... bananes",
+				"bananafarmer" : "Producteur de bananes",
+				"bananatool" : "Outil de producteur de bananes",
 				"barleya" : "_MISSING_Primarily for livestock feed",
-				"barleyfarmer" : "_MISSING_Barley Farmer",
-				"barleyfarmertool" : "_MISSING_Barley Farmer Tool",
-				"beekeeper" : "_MISSING_Beekeeper",
+				"barleyfarmer" : "Producteur d'orge",
+				"barleyfarmertool" : "Outil de producteur d'orge",
+				"beekeeper" : "Apiculteur",
 				"beekeepera" : "_MISSING_Essential to some luxury items",
-				"beekeepertool" : "_MISSING_Beekeeper Tool",
+				"beekeepertool" : "Outil d'apiculteur",
 				"berrya" : "De la nourriture rapide et facile, commencez par cela !",
 				"berryfarmer" : "Cultivateur de baies",
 				"berryfarmertool" : "Outil de cultivateur de baies",
@@ -756,14 +756,14 @@
 				"builderarea" : "Zone de construction",
 				"builderb" : "Choisissez le bloc à placer, puis sélectionnez la zone à construire",
 				"cabbagea" : "_MISSING_Essential for some luxury foods",
-				"cabbagefarmer" : "_MISSING_Cabbage Farmer",
-				"cabbagefarmertool" : "_MISSING_Cabbage Farmer Tool",
+				"cabbagefarmer" : "Producteur de choux",
+				"cabbagefarmertool" : "Outil de producteur de choux",
 				"cassavab" : "_MISSING_Tropical carbs, used for foofoo",
 				"cassavafarmer" : "_MISSING_Cassava Farmer",
 				"cassavatool" : "_MISSING_Cassava Farmer Tool",
-				"chickenfarmer" : "_MISSING_Chicken Farmer",
+				"chickenfarmer" : "Eleveur de poule",
 				"chickenfarmera" : "_MISSING_Chickens create eggs, meat and feathers",
-				"chickenfarmertool" : "_MISSING_Chicken Farmer Tool",
+				"chickenfarmertool" : "Outil d'éleveur de poule",
 				"cofeeb" : "_MISSING_Coffeebeans",
 				"coffeebeanfarmer" : "_MISSING_Coffeebean Farmer",
 				"coffeebeanfarmertool" : "_MISSING_Coffebean Farmer Tool",
@@ -798,8 +798,8 @@
 				"flaxherbfarming" : "Lin & herbes",
 				"flaxherbfarminga" : "Cultivateurs de lin et d'herbes",
 				"flaxherbfarmingb" : "Cela ouvrira un autre menu permettant de sélectionner le type de cultivateur",
-				"food" : "_MISSING_Food",
-				"food1" : "_MISSING_Food production",
+				"food" : "Nourriture",
+				"food1" : "Production de nourriture",
 				"food2" : "_MISSING_Various ways of preventing your colonists from starving",
 				"forester" : "Bûcheron",
 				"forestera" : "Plante et coupe des arbres",
@@ -829,7 +829,7 @@
 				"minerb" : "Requiert : Pioche\nCreuse sous ses pieds et à placer sur des minerais ou la roche sombre.",
 				"minertool" : "Outil de mineur",
 				"missingscience" : "<color=red>La technologie « {0} » doit d'abord avoir été débloquée.</color>",
-				"newworld" : "_MISSING_New World",
+				"newworld" : "Nouveau Monde",
 				"newworlda" : "_MISSING_Jobs specific to the New World region",
 				"newworldb" : "_MISSING_Research colonization before attempting this",
 				"noconstructionareanearby" : "Aucun chantier à proximité",
@@ -837,37 +837,37 @@
 				"notflat" : "Le terrain n'est pas plat",
 				"nowaternearby" : "_MISSING_No water nearby",
 				"occupiedblocks" : "Occupé par des blocs",
-				"olivefarmer" : "_MISSING_Olive Farmer",
+				"olivefarmer" : "Producteur d'olive",
 				"olivefarmera" : "_MISSING_Creates olive trees and gathers olives",
-				"olivefarmertool" : "_MISSING_Olive Farmer Tool",
-				"papyrusb" : "_MISSING_Papyrus",
-				"papyrusfarmer" : "_MISSING_Papyrus Farmer",
-				"papyrustool" : "_MISSING_Papyrus Farmer Tool",
+				"olivefarmertool" : "Outil de producteur d'olive",
+				"papyrusb" : "Papyrus",
+				"papyrusfarmer" : "Producteur de papyrus",
+				"papyrustool" : "Outil de producteur de papyrus",
 				"potatob" : "_MISSING_New World carbs",
-				"potatofarmer" : "_MISSING_Potato Farmer",
-				"potatotool" : "_MISSING_Potato Farmer Tool",
+				"potatofarmer" : "Producteur de pomme de terre",
+				"potatotool" : "Outil de producteur de pomme de terre",
 				"requiresarable" : "_MISSING_Requires arable ground",
 				"riceb" : "_MISSING_Far East carbs",
-				"ricefarmer" : "_MISSING_Rice Farmer",
-				"ricefarmertool" : "_MISSING_Rice Farmer Tool",
+				"ricefarmer" : "Producteur de riz",
+				"ricefarmertool" : "Outuil de producteur de riz",
 				"silkwormb" : "_MISSING_Used to make silk eventually",
 				"silkwormfarmer" : "_MISSING_Silkworm Farmer",
 				"silkwormfarmertool" : "_MISSING_Silkworm Farmer Tool",
 				"slinger" : "Frondeur",
 				"slingertooltip" : "Dégâts : 50 PV\nPortée : 12 blocs\nRechargement : 3 secondes",
-				"sugarcaneb" : "_MISSING_Sugarcane",
-				"sugarcanefarmer" : "_MISSING_Sugarcane Farmer",
-				"sugarcanetool" : "_MISSING_Sugarcane Farmer Tool",
-				"teafarmer" : "_MISSING_Tea Farmer",
+				"sugarcaneb" : "Canne à sucre",
+				"sugarcanefarmer" : "Producteur de canne à sucre",
+				"sugarcanetool" : "Outil de producteur de canne à sucre",
+				"teafarmer" : "Producteur de thé",
 				"teafarmerb" : "_MISSING_Produces leaves which lead to tea",
-				"teafarmertool" : "_MISSING_Tea Farmer Tool",
-				"tomatob" : "_MISSING_Tomatoes",
-				"tomatofarmer" : "_MISSING_Tomato Farmer",
-				"tomatotool" : "_MISSING_Tomato Tool",
+				"teafarmertool" : "Outil de producteur de thé",
+				"tomatob" : "Tomates",
+				"tomatofarmer" : "Producteur de tomates",
+				"tomatotool" : "Outil de producteur de tomates",
 				"toolarge" : "Trop grand",
 				"toonarrow" : "Trop étroit",
 				"toosmall" : "Trop petit",
-				"tropics" : "_MISSING_Tropics",
+				"tropics" : "Tropiques",
 				"tropicsa" : "_MISSING_Jobs specific to the Tropics region",
 				"tropicsb" : "_MISSING_Research colonization before attempting this",
 				"wateradjacent" : "_MISSING_Requires water adjacent to the job location",
@@ -922,14 +922,14 @@
 			}
 		},
 		"sciencebiome" : {
-			"arctic" : "_MISSING_The Arctic",
-			"currentarea" : "_MISSING_Current area: {0}",
-			"fareast" : "_MISSING_The Far East",
-			"newworld" : "_MISSING_The New World",
-			"noarea" : "_MISSING_None",
-			"none" : "_MISSING_None",
-			"oldworld" : "_MISSING_The Old World",
-			"tropics" : "_MISSING_The Tropics"
+			"arctic" : "L'Arctic",
+			"currentarea" : "Zone actuelle: {0}",
+			"fareast" : "L'Extrême-Orient",
+			"newworld" : "Le Nouveau Monde",
+			"noarea" : "Aucune",
+			"none" : "Aucun",
+			"oldworld" : "L'Ancien Monde",
+			"tropics" : "Les Tropiques"
 		},
 		"settingsmenu" : {
 			"audio" : "Audio",
@@ -1018,43 +1018,43 @@
 			}
 		},
 		"singleplayermenu" : {
-			"alreadyexists" : "_MISSING_World already exists!",
-			"cancel" : "_MISSING_Cancel",
+			"alreadyexists" : "Un monde existe déjà!",
+			"cancel" : "Annuler",
 			"colonyname" : "Nom de la colonie",
-			"confirmdelete" : "_MISSING_Confirm deleting",
+			"confirmdelete" : "Confirmer la suppression",
 			"confirmdeletedescription" : "_MISSING_You're about to delete the folder containing this world.\nWhat do you want to do?",
 			"delete" : "Effacer",
-			"hostingoptions" : "_MISSING_Hosting Settings",
+			"hostingoptions" : "Paramètres Hébergement",
 			"load" : "Charger",
 			"loadworld" : "Charger le monde",
 			"newworld" : "Nouveau monde",
-			"password" : "_MISSING_Password",
+			"password" : "Mot de Passe",
 			"play" : "Jouer",
-			"servername" : "_MISSING_Server Name",
-			"serverport" : "_MISSING_Server Port",
+			"servername" : "Nom du Serveur",
+			"serverport" : "Port du Serveur",
 			"worlddate" : "Date",
 			"worldname" : "Nom",
-			"worldseed" : "_MISSING_World seed"
+			"worldseed" : "Graine du Monde"
 		}
 	},
 	"types" : {
 		"adobe" : "Torchis",
 		"alkanet" : "Orcanette",
 		"alkanetstage1" : "Graines d'orcanette",
-		"banana" : "_MISSING_Banana",
+		"banana" : "Banane",
 		"banner" : "Bannière",
 		"bannertool" : "Outil de bannière",
-		"barley" : "_MISSING_Barley",
-		"barleystage1" : "_MISSING_Barley Seeds",
+		"barley" : "Orge",
+		"barleystage1" : "Graines d'Orge",
 		"bed" : "Lit",
-		"beehive" : "_MISSING_Beehive",
-		"beeswax" : "_MISSING_Beeswax",
+		"beehive" : "Ruche",
+		"beeswax" : "Cire",
 		"berry" : "Baies",
 		"berrybush" : "Graines de baies",
 		"blackplanks" : "Planches vernies noires",
 		"bloomery" : "Bas fourneau",
-		"boilingwater" : "_MISSING_Boiling Water",
-		"book" : "_MISSING_Book",
+		"boilingwater" : "Eau bouillante",
+		"book" : "Livre",
 		"bow" : "Arc",
 		"bowstring" : "Corde",
 		"bread" : "Pain",
@@ -1070,22 +1070,22 @@
 		"bronzeingot" : "Lingot de bronze",
 		"bronzepickaxe" : "Pioche en bronze",
 		"bronzeplate" : "Plaque de bronze",
-		"bucketempty" : "_MISSING_Empty Bucket",
-		"bucketwater" : "_MISSING_Water Bucket",
-		"cabbage" : "_MISSING_Cabbage",
-		"cabbagestage1" : "_MISSING_Cabbage Seeds",
-		"cake" : "_MISSING_Cake",
-		"candle" : "_MISSING_Candle",
+		"bucketempty" : "Seau vide",
+		"bucketwater" : "Seau d'eau",
+		"cabbage" : "Chou",
+		"cabbagestage1" : "Graines de chou",
+		"cake" : "Gâteau",
+		"candle" : "Bougie",
 		"carpetblue" : "Tapis bleu",
 		"carpetred" : "Tapis rouge",
 		"carpetwhite" : "Tapis blanc",
 		"carpetyellow" : "Tapis jaune",
-		"cassava" : "_MISSING_Cassava",
+		"cassava" : "Manioc",
 		"charcoal" : "Charbon de bois",
 		"cherryblossom" : "Feuilles de cerisier en fleur",
 		"cherrysapling" : "Pousse de ceriser",
-		"chickencoop" : "_MISSING_Chicken Coop",
-		"chickenmeat" : "_MISSING_Chicken Meat",
+		"chickencoop" : "Poulailler",
+		"chickenmeat" : "Viande de poulet",
 		"clay" : "Argile",
 		"coalore" : "Minerai de charbon",
 		"coatedplanks" : "Planches vernies",
@@ -1094,46 +1094,46 @@
 		"cobblestonebrown" : "Pierres brunes",
 		"cobblestonegrey" : "Pierres grises",
 		"cobblestonered" : "Pierres rouges",
-		"coffee" : "_MISSING_Coffee",
-		"coffeebeans" : "_MISSING_Coffee Beans",
+		"coffee" : "Café",
+		"coffeebeans" : "Graines de café",
 		"cokes" : "Coke",
-		"colonykit" : "_MISSING_Colony Starter Kit",
+		"colonykit" : "Kit de démarrage de colonie",
 		"commandtool" : "Outil de commande",
 		"constructionjob" : "Ouvrier de construction",
-		"cookedfish" : "_MISSING_Cooked Fish",
+		"cookedfish" : "Poisson cuît",
 		"copper" : "Cuivre",
 		"coppernails" : "Clous en cuivre",
 		"copperparts" : "Éléments en cuivre",
 		"coppertools" : "Outils en cuivre",
-		"cotton" : "_MISSING_Cotton",
-		"cottonraw" : "_MISSING_Raw Cotton",
-		"cottonthread" : "_MISSING_Cotton Thread",
-		"cottontowel" : "_MISSING_Cotton Towel",
+		"cotton" : "Coton",
+		"cottonraw" : "Coton brut",
+		"cottonthread" : "Fil de coton",
+		"cottontowel" : "Serviette en coton",
 		"crate" : "Caisse",
 		"cratebread" : "Caisse à don",
 		"crossbow" : "Arbalète",
 		"crossbowbolt" : "Carreau d'arbalète",
 		"crystal" : "Cristal",
 		"darkstone" : "Bloc de roche sombre",
-		"diamond" : "_MISSING_Diamond",
-		"diamondnecklace" : "_MISSING_Diamond Necklace",
+		"diamond" : "Diamant",
+		"diamondnecklace" : "Collier en diamant",
 		"dirt" : "Terre",
 		"dyertable" : "Atelier du teinturier",
-		"egg" : "_MISSING_Egg",
-		"feather" : "_MISSING_Feather",
+		"egg" : "Oeuf",
+		"feather" : "Plume",
 		"fineryforge" : "Raffinerie",
 		"firewood" : "Bois de coupe",
 		"fishermanjob" : "_MISSING_Fisherman Job",
-		"fishmeal" : "_MISSING_Fishmeal",
+		"fishmeal" : "Farines",
 		"flax" : "Lin cultivé",
 		"flaxstage1" : "Graines de lin",
 		"flour" : "Farine",
 		"foofoo" : "_MISSING_Foofoo",
-		"fur" : "_MISSING_Fur",
+		"fur" : "Fourrure",
 		"furnace" : "Haut fourneau",
 		"galenalead" : "Galène plombifère",
 		"galenasilver" : "Galène argentifère",
-		"glider" : "_MISSING_Glider",
+		"glider" : "Planeur",
 		"goldcoin" : "Pièce d'or",
 		"goldingot" : "Lingot d'or",
 		"goldore" : "Minerai d'or",
@@ -1167,16 +1167,16 @@
 		"gypsum" : "Gypse",
 		"hollyhock" : "Rose trémière",
 		"hollyhockstage1" : "Graines de rose trémière",
-		"honey" : "_MISSING_Honey",
-		"ink" : "_MISSING_Ink",
+		"honey" : "Miel",
+		"ink" : "Encre",
 		"ironblock" : "Bloc de fer",
 		"ironingot" : "Lingot de fer",
 		"ironore" : "Minerai de fer",
 		"ironrivet" : "Rivet en fer",
 		"ironsword" : "Épée en fer",
 		"ironwrought" : "Fer forgé",
-		"jewelry" : "_MISSING_Jewelry",
-		"kaolinite" : "_MISSING_Kaolinite",
+		"jewelry" : "Bijoux",
+		"kaolinite" : "Kaolinite",
 		"kiln" : "Touraille",
 		"lanternblue" : "Lanterne bleue",
 		"lanterncyan" : "Lanterne turquoise",
@@ -1198,25 +1198,25 @@
 		"linen" : "Toile de lin",
 		"linenbag" : "Sac en lin",
 		"linenpouch" : "Sachet en lin",
-		"lobster" : "_MISSING_Lobster",
-		"lobsterprepared" : "_MISSING_Cooked Lobster",
+		"lobster" : "Homard",
+		"lobsterprepared" : "Homard cuît",
 		"logtaiga" : "Bûche enneigée",
 		"logtemperate" : "Bûche tempérée",
-		"luxurymeal" : "_MISSING_Luxury Meal",
+		"luxurymeal" : "Repas de luxe",
 		"matchlockgun" : "Platine à mèche",
 		"minerjob" : "Mineur",
 		"mint" : "Atelier monétaire",
-		"newworldmeal" : "_MISSING_New World Meal",
-		"npcshop" : "_MISSING_Grocery Store",
-		"olive" : "_MISSING_Olive",
-		"oliveleaves" : "_MISSING_Olive Leaves",
-		"oliveoil" : "_MISSING_Olive Oil",
-		"olivesapling" : "_MISSING_Olive Sapling",
+		"newworldmeal" : "Repas du Nouveau Monde",
+		"npcshop" : "Epicerie",
+		"olive" : "Olive",
+		"oliveleaves" : "Feuilles d'olivier",
+		"oliveoil" : "Huile d'olivier",
+		"olivesapling" : "Jeune olivier",
 		"oven" : "Four",
-		"paperempty" : "_MISSING_Empty Paper",
-		"papertext" : "_MISSING_Paper With Text",
-		"papyrus" : "_MISSING_Papyrus",
-		"perpetualstew" : "_MISSING_Perpetual Stew",
+		"paperempty" : "Papier vierge",
+		"papertext" : "Papier annoté",
+		"papyrus" : "Papyrus",
+		"perpetualstew" : "Ragoût perpétuel",
 		"planks" : "Planches",
 		"planksblue" : "Planches bleues",
 		"plankscyan" : "Planches turquoise",
@@ -1226,21 +1226,21 @@
 		"planksred" : "Planches rouges",
 		"planksyellow" : "Planches jaunes",
 		"plasterblock" : "Bloc de plâtre",
-		"porcelainbiscuit" : "_MISSING_Porcelain Biscuit",
+		"porcelainbiscuit" : "Biscuit en porcelaine",
 		"porcelainglazed" : "_MISSING_Glazed Porcelain",
 		"porcelainraw" : "_MISSING_Raw Porcelain",
-		"potato" : "_MISSING_Potato",
+		"potato" : "Pomme de terre",
 		"printingpress" : "_MISSING_Printing Press",
 		"quarterblockblack" : "Quart de bloc noir",
 		"quarterblockbrowndark" : "Quart de bloc brun",
 		"quarterblockbrownlight" : "Quart de bloc beige",
 		"quarterblockgrey" : "Quart de bloc gris",
 		"quarterblockwhite" : "Quart de bloc blanc",
-		"rawbeeswax" : "_MISSING_Raw Beeswax",
-		"rawfish" : "_MISSING_Raw Fish",
+		"rawbeeswax" : "Cire brute",
+		"rawfish" : "Poisson cru",
 		"redplanks" : "Planches vernies rouges",
-		"rice" : "_MISSING_Rice",
-		"ricemeal" : "_MISSING_Rice Meal",
+		"rice" : "Riz",
+		"ricemeal" : "Repas avec du riz",
 		"salpeter" : "Salpêtre",
 		"sand" : "Sable",
 		"sappling" : "Pousse d'arbre",
@@ -1251,15 +1251,15 @@
 		"sciencebagmilitary" : "Sac de science militaire",
 		"sciencelab" : "Laboratoire",
 		"shop" : "Échoppe",
-		"silk" : "_MISSING_Silk",
-		"silkpillow" : "_MISSING_Silk Pillow",
-		"silkthread" : "_MISSING_Silk Thread",
-		"silkwormcocoon" : "_MISSING_Silkworm Cocoon",
+		"silk" : "Soie",
+		"silkpillow" : "Oreiller en soie",
+		"silkthread" : "Fil de soie",
+		"silkwormcocoon" : "Cocon de vers à soie",
 		"silveringot" : "Lingot d'argent",
 		"sling" : "Fronde",
 		"slingbullet" : "Projectile pour fronde",
 		"snow" : "Neige",
-		"spinningwheel" : "_MISSING_Spinning Wheel",
+		"spinningwheel" : "Rouet",
 		"splittingstump" : "Billot",
 		"steelingot" : "Lingot d'acier",
 		"steelparts" : "Éléments en acier",
@@ -1269,32 +1269,32 @@
 		"stonebricksbrown" : "Briques de pierre brunes",
 		"stonebrickswhite" : "Briques de pierre blanches",
 		"stonemasonworkbench" : "Atelier du tailleur de pierres",
-		"stove" : "_MISSING_Stove",
+		"stove" : "Poêle",
 		"straw" : "Paille",
-		"sugar" : "_MISSING_Sugar",
+		"sugar" : "Sucre",
 		"tailorshop" : "Atelier de couture",
-		"tea" : "_MISSING_Tea",
+		"tea" : "Thé",
 		"tealeavesprocessed" : "_MISSING_Processed Tea Leaves",
 		"tealeavesprocesseddried" : "_MISSING_Dried Tea Leaves",
 		"tealeavesraw" : "_MISSING_Raw Tea Leaves",
 		"technologisttable" : "Table de technologie",
 		"tin" : "Étain",
-		"tomato" : "_MISSING_Tomato",
+		"tomato" : "Tomate",
 		"torch" : "Torche",
-		"trader" : "_MISSING_Trader",
+		"trader" : "Marchand",
 		"undershirt" : "_MISSING_Undershirt",
 		"water" : "Eau",
 		"watergathererjob" : "_MISSING_Watergatherer Job",
-		"waterpump" : "_MISSING_Water Pump",
-		"waxtablet" : "_MISSING_Wax Tablet",
+		"waterpump" : "Pompe à eau",
+		"waxtablet" : "Comprimé de cire",
 		"wheat" : "Blé",
 		"wheatstage1" : "Graines de blé",
-		"wintercoat" : "_MISSING_Winter Coat",
+		"wintercoat" : "Manteau d'hiver",
 		"wolfsbane" : "Gaude",
 		"wolfsbanestage1" : "Graines de gaude",
 		"woodcoating" : "_MISSING_Wood Coating",
 		"workbench" : "Établi",
-		"writerdesk" : "_MISSING_Writer's Desk"
+		"writerdesk" : "Bureau de l'écrivain"
 	},
 	"typeuses" : {
 		"adobe" : "De la terre pour les riches.",
@@ -1385,7 +1385,7 @@
 		"ironrivet" : "Bien plus efficace que le ruban adhésif",
 		"ironsword" : "En garde !",
 		"ironwrought" : "Version améliorée du fer",
-		"kaolinite" : "_MISSING_Used for porcelain",
+		"kaolinite" : "Utilisé pour la porcelaine",
 		"kiln" : "Transforme les planches en charbon de bois",
 		"lanterncyan" : "Futuriste",
 		"lanterngreen" : "Rend la colonie écolo",
@@ -1417,7 +1417,7 @@
 		"planks" : "Maintenant avec 4 fois le volume de bûches !",
 		"plasterblock" : "Pour un look moderne",
 		"porcelainbiscuit" : "_MISSING_Needs to be glazed",
-		"porcelainglazed" : "_MISSING_Done!",
+		"porcelainglazed" : "Terminé!",
 		"porcelainraw" : "_MISSING_Needs to be fired",
 		"potato" : "_MISSING_Boil ‘em, mash ‘em, stick ‘em in a stew",
 		"printingpress" : "_MISSING_Respect its freedom",
@@ -1454,7 +1454,7 @@
 		"tailorshop" : "_MISSING_Tailored clothes for everyone!",
 		"technologisttable" : "Pour fabriquer des sacs servant à la recherche.",
 		"tin" : "Serait-ce toxique ?",
-		"tomato" : "_MISSING_Fruit or vegetable?",
+		"tomato" : "Fruit ou légume?",
 		"torch" : "Et la lumière fut !",
 		"trader" : "_MISSING_Unexpectedly used for trading",
 		"water" : "Vous n'êtes PAS censé(e) avoir ceci dans votre inventaire !",
