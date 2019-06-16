@@ -22,15 +22,15 @@
 		"bannerclickedpopup" : {
 			"deletebanner" : "Supprimer Bannière",
 			"deletecolony" : "Supprimer Colonie",
-			"deletecolonydescription" : "_MISSING_Deleting the last banner of a colony will remove all npcs and make the colony unusable. To confirm this is what you want, type 'delete' below.",
+			"deletecolonydescription" : "La suppression de la bannière de la colonie supprimera tous les pnj et rendra la colonie inutilisable. Pour confirmer, taper 'delete' ci-dessous.",
 			"header" : "Options Bannière",
-			"noconfirmationdelete" : "_MISSING_Ignoring deletion command, did not get confirmation",
+			"noconfirmationdelete" : "Ignorer la commande de suppression, did not get confirmation",
 			"placementfail" : "Impossible de placer la bannière à cet endroit"
 		},
 		"bannerplacementpopup" : {
 			"activecolony" : "Colonie active: {0}",
 			"addbanner" : "Ajouter Bannière",
-			"header" : "_MISSING_Banner Placement",
+			"header" : "Placement de la Bannière",
 			"movebanner" : "Déplacer Bannière",
 			"mustbeleader" : "Seul le chef de la colonie peut modifier les bannières.",
 			"startcolony" : "Commencer une nouvelle colonie ici"
@@ -59,12 +59,12 @@
 		},
 		"chat" : {
 			"onsciencedone" : "Vous avez terminé la science {0}",
-			"onsciencetraded" : "_MISSING_You've completed science {0} by trading."
+			"onsciencetraded" : "Vous avez terminé la science {0} en faisant du commerce."
 		},
 		"colonymanagement" : {
 			"colonysettings" : {
 				"daymonsters" : "Nombre de Monstres en journée",
-				"enablehappiness" : "_MISSING_Use Happiness",
+				"enablehappiness" : "Bonheur Actif",
 				"header" : "Paramètres Colonie",
 				"nightmonsters" : "Nombre de Monstres la nuit"
 			},
@@ -118,13 +118,13 @@
 				"kits" : "Kits disponible",
 				"missingkit" : "Un Kit de démarrage de Colonie",
 				"name" : "Nom de la Colonie",
-				"parentcolony" : "_MISSING_Parent Colony",
+				"parentcolony" : "Colonie Mère",
 				"popupheader" : "Création de la Colonie",
 				"usescienceagreement" : "Transférer Science"
 			},
 			"startrecruitment" : "Recrutement",
 			"startsettings" : "Paramètres de la Colonie",
-			"switchcolony" : "_MISSING_Switch to {0}",
+			"switchcolony" : "Basculer vers {0}",
 			"trading" : {
 				"completerule" : "Créer règle",
 				"newrule" : "_MISSING_Propose trading rule",
@@ -163,9 +163,9 @@
 			"sp_3" : "Étape 3/{0} – Serveur lancé, en attente de connexion",
 			"sp_alreadyrunning1" : "Un serveur pour cette installation est déjà lancé. Il est peut-être toujours en train de quitter. Nouvelle tentative dans 5 secondes.",
 			"sp_alreadyrunning2" : "Un serveur est déjà lancé. Retour au menu principal dans 5 secondes.",
-			"steam01" : "_MISSING_Stage 1/{0} - Trying to setup TCP connection to {1}",
-			"steam02" : "_MISSING_Stage 2/{0} - Trying to setup steam connection",
-			"steam03" : "_MISSING_Stage 3/{0} - Connexion réussie, authentification en cours",
+			"steam01" : "Etape 1/{0} - Tentative de configuration de la connexion TCP connection {1}",
+			"steam02" : "Etape 2/{0} - Tentative de configuration de la connexion steam",
+			"steam03" : "Etape 3/{0} - Connexion réussie, authentification en cours",
 			"steamfail" : "Impossible de recevoir les données de connexion. Retour au menu principal dans 5 secondes."
 		},
 		"escapemenu" : {
@@ -207,10 +207,10 @@
 			"calories" : "_MISSING_Rationed calories",
 			"caloriescause" : "_MISSING_Surplus calories",
 			"colonistcount" : "Population",
-			"disabledeffect" : "_MISSING_Happiness Disabled",
+			"disabledeffect" : "Bonheur Désactivé",
 			"recruitmentcost" : "_MISSING_Recruitment cost: {0:P0} of normal",
 			"sciencespeed" : "_MISSING_Science speed: {0:P0} of normal",
-			"totalhappiness" : "_MISSING_Total happiness: {0}"
+			"totalhappiness" : "Bonheur Total: {0}"
 		},
 		"infomenu" : {
 			"changelog" : "Nouveautés de la version",
@@ -277,19 +277,19 @@
 				},
 				"bannerradius6" : {
 					"description" : "_MISSING_Increases the safe radius created to 90 blocks",
-					"name" : "_MISSING_Banner Radius VI"
+					"name" : "Zone de sécurité VI"
 				},
 				"bannerradius7" : {
 					"description" : "_MISSING_Increases the safe radius created to 100 blocks",
-					"name" : "_MISSING_Banner Radius VII"
+					"name" : "Zone de sécurité VII"
 				},
 				"barleyfarmer" : {
 					"description" : "_MISSING_Unlocks the barley farmer, which is used to feed livestock",
-					"name" : "_MISSING_Barley Farming"
+					"name" : "Culture d'orge"
 				},
 				"beekeeper" : {
 					"description" : "_MISSING_Unlocks the beekeeper, which makes (part of) various luxury items and foods",
-					"name" : "_MISSING_Beekeeping"
+					"name" : "Apiculture"
 				},
 				"bloomery" : {
 					"description" : "Débloque le bas fourneau, qui permet de traiter les minerais de fer et de galène",
